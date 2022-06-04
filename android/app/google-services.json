@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85725886371",
+    "firebase_url": "https://ensarkimya-27bcd.firebaseio.com",
+    "project_id": "ensarkimya-27bcd",
+    "storage_bucket": "ensarkimya-27bcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85725886371:android:61d58695f6d2bb80db8c16",
+        "android_client_info": {
+          "package_name": "com.ensarkimya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85725886371-denvp0fg5jopfvlqbpki9vr3h24br1ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ44H3LjaGeOzLL4Z0xgFDazM9gzZRbww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85725886371-denvp0fg5jopfvlqbpki9vr3h24br1ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
